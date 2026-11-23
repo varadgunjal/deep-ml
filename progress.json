@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:07:53.524Z",
+  "generated_at": "2026-11-23T19:15:09.712Z",
   "items": {
     "math:51": {
       "kind": "math",
@@ -33,6 +33,19 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-11-23T18:07:52.913Z",
       "last_pushed_at": "2026-11-23T18:07:52.913Z"
+    },
+    "lab:12": {
+      "kind": "lab",
+      "id": "12",
+      "title": "PyTorch: Implement Your Own Gradient Descent Training Step",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/12",
+      "path": "labs/0012-pytorch-implement-your-own-gradient-descent-training-step",
+      "first_solved_at": "2026-11-23T19:15:09.138Z",
+      "last_pushed_at": "2026-11-23T19:15:09.138Z",
+      "language": "python",
+      "lines": 67
     }
   }
 }

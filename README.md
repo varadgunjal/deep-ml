@@ -2,11 +2,17 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 0 problems · 0 labs · 3 math
+**4** solved · 0 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://varadgunjal.github.io/deep-ml/) to replay this filling in over time.
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-11-23 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 
 ## Math
 
