@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 0 problems · 0 labs · 2 math
+**3** solved · 0 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Bradley-Terry Preference Model](https://www.deep-ml.com/math-problems/51) | medium | 2026-10-20 | [solution](math/0051-bradley-terry-preference-model) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-11-23 | [solution](math/0035-matrix-calculus-identities) |
+| [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-11-23 | [solution](math/0032-softmax-and-cross-entropy) |
 
 ---
 
