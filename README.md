@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 0 problems · 1 labs · 5 math
+**7** solved · 0 problems · 1 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-11-24 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bradley-Terry Preference Model](https://www.deep-ml.com/math-problems/51) | medium | 2026-10-20 | [solution](math/0051-bradley-terry-preference-model) |
+| [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-11-24 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-11-23 | [solution](math/0035-matrix-calculus-identities) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-11-24 | [solution](math/0002-multivariate-calculus) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-11-23 | [solution](math/0032-softmax-and-cross-entropy) |

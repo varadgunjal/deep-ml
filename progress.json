@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:03:06.449Z",
+  "generated_at": "2026-11-24T15:43:39.678Z",
   "items": {
     "math:51": {
       "kind": "math",
@@ -68,6 +68,17 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-11-24T14:02:27.961Z",
       "last_pushed_at": "2026-11-24T14:03:05.785Z"
+    },
+    "math:21": {
+      "kind": "math",
+      "id": "21",
+      "title": "Common Distributions I: Bernoulli, Binomial, Uniform",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/21",
+      "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
+      "first_solved_at": "2026-11-24T15:43:38.905Z",
+      "last_pushed_at": "2026-11-24T15:43:38.905Z"
     }
   }
 }
