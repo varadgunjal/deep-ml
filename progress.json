@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T19:29:37.243Z",
+  "generated_at": "2026-11-24T21:43:59.626Z",
   "items": {
     "math:51": {
       "kind": "math",
@@ -112,6 +112,17 @@
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-11-24T19:29:36.570Z",
       "last_pushed_at": "2026-11-24T19:29:36.570Z"
+    },
+    "math:37": {
+      "kind": "math",
+      "id": "37",
+      "title": "Taylor Expansions and Local Quadratic Models",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/37",
+      "path": "math/0037-taylor-expansions-and-local-quadratic-models",
+      "first_solved_at": "2026-11-24T21:43:58.976Z",
+      "last_pushed_at": "2026-11-24T21:43:58.976Z"
     }
   }
 }

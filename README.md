@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 0 problems · 1 labs · 9 math
+**11** solved · 0 problems · 1 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-11-24 | [solution](math/0002-multivariate-calculus) |
 | [Multivariate Gaussians](https://www.deep-ml.com/math-problems/36) | medium | 2026-11-24 | [solution](math/0036-multivariate-gaussians) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-11-23 | [solution](math/0032-softmax-and-cross-entropy) |
+| [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-11-24 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 
 ---
 
