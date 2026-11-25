@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:36:15.796Z",
+  "generated_at": "2026-11-25T14:06:01.458Z",
   "items": {
     "math:51": {
       "kind": "math",
@@ -145,6 +145,17 @@
       "path": "math/0031-regularization-and-generalization",
       "first_solved_at": "2026-11-25T02:36:15.203Z",
       "last_pushed_at": "2026-11-25T02:36:15.203Z"
+    },
+    "math:26": {
+      "kind": "math",
+      "id": "26",
+      "title": "Maximum Likelihood and MAP",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/26",
+      "path": "math/0026-maximum-likelihood-and-map",
+      "first_solved_at": "2026-11-25T14:06:00.782Z",
+      "last_pushed_at": "2026-11-25T14:06:00.782Z"
     }
   }
 }

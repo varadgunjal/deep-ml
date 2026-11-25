@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 0 problems · 1 labs · 12 math
+**14** solved · 0 problems · 1 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-11-23 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-11-24 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-11-25 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
+| [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-11-25 | [solution](math/0026-maximum-likelihood-and-map) |
 
 ---
 
