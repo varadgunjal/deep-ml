@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:42:51.114Z",
+  "generated_at": "2026-11-26T00:23:24.977Z",
   "items": {
     "math:51": {
       "kind": "math",
@@ -167,6 +167,17 @@
       "path": "math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla",
       "first_solved_at": "2026-11-25T22:42:50.566Z",
       "last_pushed_at": "2026-11-25T22:42:50.566Z"
+    },
+    "math:63": {
+      "kind": "math",
+      "id": "63",
+      "title": "Arithmetic Intensity of Matmul vs Decode Attention",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/63",
+      "path": "math/0063-arithmetic-intensity-of-matmul-vs-decode-attention",
+      "first_solved_at": "2026-11-26T00:23:24.445Z",
+      "last_pushed_at": "2026-11-26T00:23:24.445Z"
     }
   }
 }
