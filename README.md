@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 0 problems · 1 labs · 15 math
+**17** solved · 0 problems · 1 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-11-24 | [solution](math/0002-multivariate-calculus) |
 | [Multivariate Gaussians](https://www.deep-ml.com/math-problems/36) | medium | 2026-11-24 | [solution](math/0036-multivariate-gaussians) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-11-25 | [solution](math/0031-regularization-and-generalization) |
+| [Roofline: Time is the Max of Bytes/BW and FLOPs/Peak](https://www.deep-ml.com/math-problems/64) | medium | 2026-11-26 | [solution](math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-11-23 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-11-24 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-11-25 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
