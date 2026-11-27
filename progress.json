@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:28:26.470Z",
+  "generated_at": "2026-11-27T18:28:04.258Z",
   "items": {
     "math:51": {
       "kind": "math",
@@ -189,6 +189,17 @@
       "path": "math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak",
       "first_solved_at": "2026-11-26T00:28:22.216Z",
       "last_pushed_at": "2026-11-26T00:28:22.216Z"
+    },
+    "math:67": {
+      "kind": "math",
+      "id": "67",
+      "title": "PagedAttention Internal Fragmentation",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/67",
+      "path": "math/0067-pagedattention-internal-fragmentation",
+      "first_solved_at": "2026-11-27T18:28:03.690Z",
+      "last_pushed_at": "2026-11-27T18:28:03.690Z"
     }
   }
 }
